@@ -1,0 +1,3 @@
+BUILD linguist-language=Java
+MODULE.bazel linguist-language=Java
+libs/BUILD linguist-language=Java
